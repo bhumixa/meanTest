@@ -1,0 +1,16 @@
+{
+  "name": "meanstackapp",
+  "version": "0.0.1",
+  "description": "Mean stack app",
+  "dependencies": {
+	"express": "latest",
+	"mongoose":"latest",
+	"async":"latest",
+	"moment":"latest",
+	"path":"latest",
+	"ejs-locals":"latest",
+	"body-parser":"latest",
+    "express-session": "latest",
+    "connect-flash":"latest"
+ 	}
+}
